@@ -1,8 +1,10 @@
 This is a fork of Nodemailer latest MIT version 2.7.2, for study purposes and **maybe** future enhancement.
 
-**Documentation:** https://community.nodemailer.com/
+- **Documentation:** https://community.nodemailer.com/
 
-**Installation (from official package):** npm install nodemailer@2.7.2
+- **Installation (from official package):** 
+
+   `npm install nodemailer@2.7.2`
 
 ---
 ![Nodemailer](https://raw.githubusercontent.com/nodemailer/nodemailer/master/assets/nm_logo_200x136.png)
